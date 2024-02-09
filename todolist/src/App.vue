@@ -23,7 +23,7 @@
            @click="adicionarTarefa()">Adicionar
         </button>
         <button @click="excluir()">
-          Excluir
+          Limpar lista
         </button>
       </div>
       <section>
@@ -153,3 +153,4 @@
     
   }
 </style>
+
